@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643802994 source:c:\users\tewod\desktop\c++\guesing game\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

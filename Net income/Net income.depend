@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643785706 source:c:\users\tewod\desktop\c++\net income\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

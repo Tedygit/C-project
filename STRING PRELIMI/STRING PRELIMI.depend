@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644665024 source:c:\users\tewod\desktop\c++\string prelimi\main.cpp
+	<cstring>
+	<iostream>
+	<cstring>
+
